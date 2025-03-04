@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample 1",
+    "name": "Sample_1",
     "file": "samples/Sample_1.mp3",
     "bpm": "180",
     "loop": "1m",
@@ -8,7 +8,7 @@
     "overlap": "0.011"
   },
   {
-    "name": "Sample 2",
+    "name": "Sample_2",
     "file": "samples/Sample_2.mp3",
     "bpm": "200",
     "loop": "1m",
@@ -16,7 +16,7 @@
     "overlap": 0.01
   },
   {
-    "name": "Sample 3",
+    "name": "Sample_3",
     "file": "samples/Sample_3.mp3",
     "bpm": "200",
     "loop": "1m",
