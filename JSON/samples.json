@@ -2,7 +2,7 @@
   {
     "name": "Sample_1",
     "file": "samples/Sample_1.mp3",
-    "bpm": "180",
+    "bpm": "160",
     "loop": "1m",
     "grain": "0.08",
     "overlap": 0.01
