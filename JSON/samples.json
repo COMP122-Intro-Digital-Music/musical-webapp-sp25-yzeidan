@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Sample 1",
+    "file": "samples/Sample_1.mp3",
+    "bpm": "180",
+    "loop": "1m",
+    "grain": "0.08",
+    "overlap": "0.011"
+  },
+  {
+    "name": "Sample 2",
+    "file": "samples/Sample_2.mp3",
+    "bpm": "200",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Sample 3",
+    "file": "samples/Sample_3.mp3",
+    "bpm": "200",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
