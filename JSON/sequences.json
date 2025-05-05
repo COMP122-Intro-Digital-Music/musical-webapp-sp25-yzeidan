@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "name": "trial",
+    "loop": "5:3:3.9",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:3:1.undefined",
+        "pitch": "E5",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:2.undefined",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:3.undefined",
+        "pitch": "F4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:1.undefined",
+        "pitch": "F4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:1.undefined",
+        "pitch": "F5",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
