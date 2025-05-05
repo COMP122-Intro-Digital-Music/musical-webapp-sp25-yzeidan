@@ -1,35 +1,35 @@
 [
   {
-    "name": "trial",
+    "name": "Sequence 0",
     "loop": "5:3:3.9",
     "octave": 0,
     "sequence": [
       {
-        "time": "0:3:1.undefined",
+        "time": "0:3:1.9",
         "pitch": "E5",
         "dur": "8n",
         "vel": "1"
       },
       {
-        "time": "0:2:2.undefined",
+        "time": "0:2:2.6",
         "pitch": "E4",
         "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:3:3.undefined",
+        "time": "0:3:3.5",
         "pitch": "F4",
         "dur": "2n",
         "vel": "1"
       },
       {
-        "time": "0:1:1.undefined",
+        "time": "0:1:1.2",
         "pitch": "F4",
         "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "1:1:1.undefined",
+        "time": "1:1:1.2",
         "pitch": "F5",
         "dur": "4n",
         "vel": "1"
